@@ -19,4 +19,5 @@ python3 -m pip install proxybroker
 
 2.目录install_sh_kali 内的脚本适用于在kali中安装proxychains4、proxybroker、microsocks。
 
-microsocks是一个小型socks5代理服务器，再通过proxychains4代理，连接microsocks的代理可以实现动态切换代理，https://mp.weixin.qq.com/s/01uPc5IbFLs5DUNuGVFt5w可见。
+microsocks是一个小型socks5代理服务器，再通过proxychains4代理，连接microsocks的代理可以实现动态切换代理。
+https://mp.weixin.qq.com/s/01uPc5IbFLs5DUNuGVFt5w
