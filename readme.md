@@ -7,7 +7,7 @@ python3 -m pip install proxybroker
 
 用法。
 
-![](pic\1.PNG)
+<img src="pic\1.PNG"/>
 
 在历史记录中重新获取代理。
 
@@ -15,7 +15,7 @@ python3 -m pip install proxybroker
 
 使用--find将调用proxybroker命令获取代理，获取50条，验证后有效代理会少许多，速度略慢，所以加的hisfind功能。
 
-![](pic\3.PNG)
+<img src="pic\3.PNG" />
 
 2.目录install_sh_kali 内的脚本适用于在kali中安装proxychains4、proxybroker、microsocks。
 
