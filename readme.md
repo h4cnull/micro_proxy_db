@@ -7,11 +7,11 @@ python3 -m pip install proxybroker
 
 用法。
 
-<img src="pic\1.PNG"/>
+<img src="pic\1.PNG" />
 
 在历史记录中重新获取代理。
 
-<img src="pic\2.PNG" style="zoom:79%;" />
+<img src="pic\2.PNG" />
 
 使用--find将调用proxybroker命令获取代理，获取50条，验证后有效代理会少许多，速度略慢，所以加的hisfind功能。
 
